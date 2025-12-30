@@ -1,3 +1,7 @@
+# BAZOUZI MOHAMED RASSIM GR-01 security
+# Bassem Refrafi GR-02 security
+# Said Tigane GR-02 security
+
 nStates = int(input("Enter number of states: "))
 
 nSymbols = int(input("Enter number of symbols: "))
